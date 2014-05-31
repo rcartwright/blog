@@ -1,6 +1,5 @@
 
-<img src="https://travis-ci.org/rcartwright/blog.svg?branch=master">
-
+[![Build Status](https://travis-ci.org/rcartwright/blog.svg?branch=master)](https://travis-ci.org/rcartwright/blog)
 
 # README
 
