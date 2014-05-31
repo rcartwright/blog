@@ -7,6 +7,6 @@ deploy:
   password:
     secure: your encryped password determined by the travis gem=
   organization: railsgirls
-  space: heaven
+  space: heaven1
   on:
     repo: jane/railsgirls
