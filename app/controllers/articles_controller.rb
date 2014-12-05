@@ -43,6 +43,7 @@ end
 
 def index
   @articles = Article.all
+  @users = User.all
 end
  
 private
